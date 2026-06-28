@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-28"><shop><name>Архитектура</name><company>Архитектура</company><currencies><currency id="RUB" rate="1"/></currencies><categories>
+<category id="1">Погружение в классику</category>
+<category id="2">Проект: Лёд</category>
+<category id="3">Концепт: Автор</category>
+<category id="4">Добавки</category>
+<category id="5">Практикум: Не кофе</category>
+<category id="6">(Не)чайный семинар</category>
+</categories><offers>
+<offer id="1" available="true"><name>Эспрессо (ристретто, лунго)</name><vendor>Архитектура</vendor><price>170</price><currencyId>RUB</currencyId><categoryId>1</categoryId></offer>
+<offer id="2" available="true"><name>Американо</name><vendor>Архитектура</vendor><price>170</price><currencyId>RUB</currencyId><categoryId>1</categoryId></offer>
+<offer id="3" available="true"><name>Кортадо</name><vendor>Архитектура</vendor><price>190</price><currencyId>RUB</currencyId><categoryId>1</categoryId></offer>
+<offer id="4" available="true"><name>Флэт-уайт</name><vendor>Архитектура</vendor><price>220</price><currencyId>RUB</currencyId><categoryId>1</categoryId></offer>
+<offer id="5" available="true"><name>Капучино 180 мл</name><vendor>Архитектура</vendor><price>180</price><currencyId>RUB</currencyId><categoryId>1</categoryId></offer>
+<offer id="6" available="true"><name>Капучино 220 мл</name><vendor>Архитектура</vendor><price>220</price><currencyId>RUB</currencyId><categoryId>1</categoryId></offer>
+<offer id="7" available="true"><name>Мокко</name><vendor>Архитектура</vendor><price>250</price><currencyId>RUB</currencyId><categoryId>1</categoryId></offer>
+<offer id="8" available="true"><name>Латте</name><vendor>Архитектура</vendor><price>220</price><currencyId>RUB</currencyId><categoryId>1</categoryId></offer>
+<offer id="9" available="true"><name>Раф</name><vendor>Архитектура</vendor><price>270</price><currencyId>RUB</currencyId><categoryId>1</categoryId></offer>
+<offer id="10" available="true"><name>Айс Американо</name><vendor>Архитектура</vendor><price>170</price><currencyId>RUB</currencyId><categoryId>2</categoryId></offer>
+<offer id="11" available="true"><name>Эспрессо Тоник</name><vendor>Архитектура</vendor><price>220</price><currencyId>RUB</currencyId><categoryId>2</categoryId></offer>
+<offer id="12" available="true"><name>Бамбл</name><vendor>Архитектура</vendor><price>250</price><currencyId>RUB</currencyId><categoryId>2</categoryId></offer>
+<offer id="13" available="true"><name>Айс Латте</name><vendor>Архитектура</vendor><price>220</price><currencyId>RUB</currencyId><categoryId>2</categoryId></offer>
+<offer id="14" available="true"><name>Фраппучино</name><vendor>Архитектура</vendor><price>290</price><currencyId>RUB</currencyId><categoryId>2</categoryId></offer>
+<offer id="15" available="true"><name>Гляссе</name><vendor>Архитектура</vendor><price>220</price><currencyId>RUB</currencyId><categoryId>2</categoryId></offer>
+<offer id="16" available="true"><name>Чай Жасмин + Джус Боуллы</name><vendor>Архитектура</vendor><price>300</price><currencyId>RUB</currencyId><categoryId>3</categoryId></offer>
+<offer id="17" available="true"><name>Чай Зелёный + Джус Боуллы</name><vendor>Архитектура</vendor><price>300</price><currencyId>RUB</currencyId><categoryId>3</categoryId></offer>
+<offer id="18" available="true"><name>Чай Чёрный + Джус Боуллы</name><vendor>Архитектура</vendor><price>300</price><currencyId>RUB</currencyId><categoryId>3</categoryId></offer>
+<offer id="19" available="true"><name>Айс Урбеч</name><vendor>Архитектура</vendor><price>330</price><currencyId>RUB</currencyId><categoryId>3</categoryId></offer>
+<offer id="20" available="true"><name>Раф Урбеч</name><vendor>Архитектура</vendor><price>300</price><currencyId>RUB</currencyId><categoryId>3</categoryId></offer>
+<offer id="21" available="true"><name>Бамбл Джус</name><vendor>Архитектура</vendor><price>100</price><currencyId>RUB</currencyId><categoryId>4</categoryId></offer>
+<offer id="22" available="true"><name>Сироп</name><vendor>Архитектура</vendor><price>40</price><currencyId>RUB</currencyId><categoryId>4</categoryId></offer>
+<offer id="23" available="true"><name>Урбеч</name><vendor>Архитектура</vendor><price>70</price><currencyId>RUB</currencyId><categoryId>4</categoryId></offer>
+<offer id="24" available="true"><name>Альтернативное молоко</name><vendor>Архитектура</vendor><price>50</price><currencyId>RUB</currencyId><categoryId>4</categoryId></offer>
+<offer id="25" available="true"><name>Айс/Матча Латте</name><vendor>Архитектура</vendor><price>270</price><currencyId>RUB</currencyId><categoryId>5</categoryId></offer>
+<offer id="26" available="true"><name>Матча Бамбл</name><vendor>Архитектура</vendor><price>280</price><currencyId>RUB</currencyId><categoryId>5</categoryId></offer>
+<offer id="27" available="true"><name>Какао</name><vendor>Архитектура</vendor><price>220</price><currencyId>RUB</currencyId><categoryId>5</categoryId></offer>
+<offer id="28" available="true"><name>Какао Малиновый</name><vendor>Архитектура</vendor><price>250</price><currencyId>RUB</currencyId><categoryId>5</categoryId></offer>
+<offer id="29" available="true"><name>Горячий шоколад</name><vendor>Архитектура</vendor><price>250</price><currencyId>RUB</currencyId><categoryId>5</categoryId></offer>
+<offer id="30" available="true"><name>Мохито</name><vendor>Архитектура</vendor><price>220</price><currencyId>RUB</currencyId><categoryId>5</categoryId></offer>
+<offer id="31" available="true"><name>Арт Лимонад</name><vendor>Архитектура</vendor><price>240</price><currencyId>RUB</currencyId><categoryId>5</categoryId></offer>
+<offer id="32" available="true"><name>Чай листовой</name><vendor>Архитектура</vendor><price>150</price><currencyId>RUB</currencyId><categoryId>6</categoryId></offer>
+<offer id="33" available="true"><name>Облепиха Апельсин</name><vendor>Архитектура</vendor><price>220</price><currencyId>RUB</currencyId><categoryId>6</categoryId></offer>
+<offer id="34" available="true"><name>Пряный чай латте</name><vendor>Архитектура</vendor><price>230</price><currencyId>RUB</currencyId><categoryId>6</categoryId></offer>
+<offer id="35" available="true"><name>Имбирь Яблоко</name><vendor>Архитектура</vendor><price>230</price><currencyId>RUB</currencyId><categoryId>6</categoryId></offer>
+<offer id="36" available="true"><name>Ягодный Леденец</name><vendor>Архитектура</vendor><price>240</price><currencyId>RUB</currencyId><categoryId>6</categoryId></offer>
+<offer id="37" available="true"><name>Пунш Фруктовый</name><vendor>Архитектура</vendor><price>250</price><currencyId>RUB</currencyId><categoryId>6</categoryId></offer>
+</offers></shop></yml_catalog>
